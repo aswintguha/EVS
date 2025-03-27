@@ -21,6 +21,6 @@ For any questions or suggestions, feel free to reach out via email: guhaaswint@g
 
 Let's work together to protect our environment!
 
-image
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/4468c719-a63d-45a6-a62c-72d7a5a25d0b)
+
